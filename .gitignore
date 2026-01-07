@@ -1,0 +1,5 @@
+# Ignore datasets and large generated files
+Dataset/
+*.mp4
+*.pth
+*.zip
