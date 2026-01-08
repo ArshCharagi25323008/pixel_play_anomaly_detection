@@ -3,3 +3,10 @@ Dataset/
 *.mp4
 *.pth
 *.zip
+
+# macOS junk
+.DS_Store
+
+# Office temp files
+~$*
+
